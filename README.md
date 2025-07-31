@@ -1,4 +1,4 @@
-# Agricultural Product Marketing Platform 🌱
+# Agricultural Product Marketing Platform 
 
 A Python-based command line platform connecting rural farmers with urban buyers to revolutionize agricultural commerce.
 
@@ -11,7 +11,7 @@ A Python-based command line platform connecting rural farmers with urban buyers 
 - [Team Members](#team-members)
 - [License](#license)
 
-## Key Features ✨
+## Key Features 
 
 - **Farmer Management**
   - Registration & verification system
@@ -28,7 +28,7 @@ A Python-based command line platform connecting rural farmers with urban buyers 
   - CLI interface for low-tech accessibility
   - Automated notifications
 
-## Installation ⚙️
+## Installation 
 
 ### Prerequisites
 - Python 3.8 or higher
